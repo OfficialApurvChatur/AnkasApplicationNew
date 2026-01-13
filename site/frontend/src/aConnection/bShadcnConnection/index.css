@@ -1032,7 +1032,7 @@ html, body, #root {
 } */
 
 /* Ankas */
-/* @layer base {
+@layer base {
   :root {
     --background: 145 18% 73%;
     --foreground: 276 41% 18%;
@@ -1124,7 +1124,7 @@ html, body, #root {
     --sidebar-border: 276 20% 26%;
     --sidebar-ring: 145 18% 73%;
   }
-} */
+}
 
 /* Abol */
 /* @layer base {
@@ -1222,7 +1222,7 @@ html, body, #root {
 } */
 
 /* Boilerplate */
-@layer base {
+/* @layer base {
   :root {
     --background: 312 43% 82%; 
     --foreground: 180 100% 3%; 
@@ -1314,7 +1314,7 @@ html, body, #root {
     --sidebar-border: 180 30% 14%;
     --sidebar-ring: 312 43% 82%;
   }
-}
+} */
 
 /* Chattrix */
 /* @layer base {
