@@ -55,6 +55,11 @@ const brandConnection = {
   tFrontendProductionURL2: "https://ankas-frontend-v02.netlify.app",
 
   uTagName: "Fueling Applications With Strong Backend",
+
+  vMainApplication: "Ankas Application",
+  vFrontendApplication: "Ankas Application (Frontend)",
+  vAdminApplication: "Ankas Application (Admin)",
+  vBackendApplication: "Ankas Application (Backend)",
 }
 
 export default brandConnection;
